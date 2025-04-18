@@ -16,8 +16,8 @@ A RAG (Retrieval Augmented Generation) based Q&A tool for context based content 
 
 ## Working
 <div>
-    <a href='./assets/APP_flow.png' target='_blank'>
-        <img align="center" src='./assets/APP_flow.png'>
+    <a href='./assets/APP_FLOW.png' target='_blank'>
+        <img align="center" src='./assets/APP_FLOW.png'>
     </a>
 </div>
 
