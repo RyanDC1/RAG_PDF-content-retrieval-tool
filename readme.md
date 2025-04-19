@@ -6,11 +6,20 @@ A RAG (Retrieval Augmented Generation) Q&A search tool for context based content
 
 ## Screenshots
 <div>
-    <a href='./assets/img_1.png' target='_blank'>
-        <img align="center" src='./assets/img_1.png'>
+    <a href='./assets/DEMO_1.png' target='_blank'>
+        <img align="center" src='./assets/DEMO_1.png'>
     </a>
     <p align="center">
       Retrieving structured contents from a recipe book
+    </p>
+</div>
+
+<div>
+    <a href='./assets/DEMO_2.png' target='_blank'>
+        <img align="center" src='./assets/DEMO_2.png'>
+    </a>
+    <p align="center">
+      Asking an out-of-context question
     </p>
 </div>
 
