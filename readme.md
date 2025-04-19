@@ -2,7 +2,7 @@
   RAG - PDF content retrieval
 </h1>
 
-A RAG (Retrieval Augmented Generation) based Q&A tool for context based content retrieval using the Gemini API in Python.
+A RAG (Retrieval Augmented Generation) Q&A search tool for context based content retrieval using the Gemini API in Python.
 
 ## Screenshots
 <div>
